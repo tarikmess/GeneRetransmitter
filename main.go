@@ -7,10 +7,10 @@ import (
 	"time"
 
 	"github.com/rs/zerolog"
-	"github.com/sovamorco/errorx"
-	"github.com/sovamorco/gommon/log"
-	"github.com/sovamorco/gene-retransmitter/config"
-	"github.com/sovamorco/gene-retransmitter/service"
+	"github.com/tarikmess/errorx"
+	"github.com/tarikmess/gommon/log"
+	"github.com/tarikmess/gene-retransmitter/config"
+	"github.com/tarikmess/gene-retransmitter/service"
 )
 
 const (

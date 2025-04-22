@@ -23,10 +23,10 @@ github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZN
 github.com/rs/xid v1.5.0/go.mod h1:trrq9SKmegXys3aeAKXMUTdJsYXVwGY3RLcfgqegfbg=
 github.com/rs/zerolog v1.33.0 h1:1cU2KZkvPxNyfgEmhHAz/1A9Bz+llsdYzklWFzgp0r8=
 github.com/rs/zerolog v1.33.0/go.mod h1:/7mN4D5sKwJLZQ2b/znpjC3/GQWY/xaDXUM0kKWRHss=
-github.com/sovamorco/errorx v0.1.0 h1:OJaJN9x+IxHkZVH0Ctiibldm6CGSHC2um2W0oxtSnyk=
-github.com/sovamorco/errorx v0.1.0/go.mod h1:Po3MVee3CjcDUncxq7oggPcxUDZozwL6/BpataJ+5bU=
-github.com/sovamorco/gommon v0.3.1 h1:amVs/4yTYlcJRZtrVaQhnzhudzeH/y1bVRMIWMK3cRk=
-github.com/sovamorco/gommon v0.3.1/go.mod h1:ullAg60ooafdFKaPhPb3GBKrbFM4nulxKTSD1mX0hOI=
+github.com/tarikmess/errorx v0.1.0 h1:OJaJN9x+IxHkZVH0Ctiibldm6CGSHC2um2W0oxtSnyk=
+github.com/tarikmess/errorx v0.1.0/go.mod h1:Po3MVee3CjcDUncxq7oggPcxUDZozwL6/BpataJ+5bU=
+github.com/tarikmess/gommon v0.3.1 h1:amVs/4yTYlcJRZtrVaQhnzhudzeH/y1bVRMIWMK3cRk=
+github.com/tarikmess/gommon v0.3.1/go.mod h1:ullAg60ooafdFKaPhPb3GBKrbFM4nulxKTSD1mX0hOI=
 github.com/stretchr/testify v1.2.2 h1:bSDNvY7ZPG5RlJ8otE/7V6gMiyenm9RtJ7IUVIAoJ1w=
 github.com/stretchr/testify v1.2.2/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
 golang.org/x/crypto v0.0.0-20210421170649-83a5a9bb288b h1:7mWr3k41Qtv8XlltBkDkl8LoP3mpSgBW8BUoxtEdbXg=

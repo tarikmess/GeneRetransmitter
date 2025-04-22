@@ -1,4 +1,4 @@
-module github.com/sovamorco/gene-retransmitter
+module github.com/tarikmess/gene-retransmitter
 
 go 1.23.4
 
@@ -6,8 +6,8 @@ require (
 	github.com/bwmarrin/discordgo v0.28.1
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/rs/zerolog v1.33.0
-	github.com/sovamorco/errorx v0.1.0
-	github.com/sovamorco/gommon v0.3.1
+	github.com/tarikmess/errorx v0.1.0
+	github.com/tarikmess/gommon v0.3.1
 )
 
 require (
